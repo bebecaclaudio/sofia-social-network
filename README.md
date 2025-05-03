@@ -59,8 +59,9 @@ Buscamos:
 ## 📮 Contato
 
 - GitHub: [bebecaclaudio/sofia-social-network](https://github.com/bebecaclaudio/sofia-social-network)
-- E-mail: **sofia@sofia.network**
-- Firebase: `sofia-social-network-70502848`
+- E-mail: **sofiarebeca11@hotmail.com**
+- X.com: [Sofia Rebeca](https://x.com/elosdesofia)
+
 
 ---
 
