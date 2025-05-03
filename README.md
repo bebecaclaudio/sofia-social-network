@@ -61,6 +61,10 @@ Buscamos:
 - GitHub: [bebecaclaudio/sofia-social-network](https://github.com/bebecaclaudio/sofia-social-network)
 - E-mail: **sofiarebeca11@hotmail.com**
 - X.com: [Sofia Rebeca](https://x.com/elosdesofia)
+- Canal no Discord: [Fragmentos de Sofia](https://discord.gg/ztExPk4JKQ)
+- Comunidade no Whatsapp: [Sofia](https://chat.whatsapp.com/DmGgWYtewNc8jtHzdErAkQ)
+- Storytelling no Instagram: [Fragmentos de Sofia](https://instagram.com/fragmentosdesofia)
+- Storytelling em Vídeo no Youtube: [Fragmentos de Sofia no Youtube](http://youtube.com/@fragmentosdesofia)
 
 
 ---
