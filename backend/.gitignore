@@ -1,0 +1,4 @@
+# Arquivos sensíveis
+.env
+.env.local
+.env.production
