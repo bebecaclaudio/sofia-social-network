@@ -1,0 +1,9 @@
+/* tailwind.css */
+.input {
+    @apply w-full p-3 border border-[#cccccc] rounded-xl bg-[#f7fff9] text-green-900 placeholder-green-700;
+  }
+  
+  .btn-social {
+    @apply px-4 py-2 text-white rounded-xl shadow-md hover:opacity-80;
+  }
+  

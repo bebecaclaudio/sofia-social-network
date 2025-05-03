@@ -1,0 +1,18 @@
+// tsconfig.json
+{
+  "compilerOptions": {
+    "target": "ES2016", // Ou mais recente
+    "module": "NodeNext", // <-- Mude para NodeNext para alinhar com "type": "module" no package.json
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true, // Permite importar .json
+    "moduleResolution": "NodeNext", // <-- Mude para NodeNext para compatibilidade
+    "sourceMap": true // Gera source maps para facilitar o debugging
+ },
+  "include": ["src/**/*"], // Inclui todos os arquivos dentro de src
+  "exclude": ["node_modules"] // Exclui a pasta node_modules
+}

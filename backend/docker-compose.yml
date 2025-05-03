@@ -1,0 +1,16 @@
+services:
+  db:
+    image: mysql/mysql-server:latest
+    container_name: my-mysql
+    restart: always
+    environment:
+      - MYSQL_DATABASE=sofia_db
+      - MYSQL_USER=root
+      - MYSQL_ROOT_PASSWORD=250488Fe$2
+    ports:
+      - '3306:3306'
+    volumes:
+      - mysql-volume:/var/lib/mysql
+volumes:
+  mysql-volume:
+    driver: local
