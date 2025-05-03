@@ -65,6 +65,7 @@ Buscamos:
 - Comunidade no Whatsapp: [Sofia](https://chat.whatsapp.com/DmGgWYtewNc8jtHzdErAkQ)
 - Storytelling no Instagram: [Fragmentos de Sofia](https://instagram.com/fragmentosdesofia)
 - Storytelling em Vídeo no Youtube: [Fragmentos de Sofia no Youtube](http://youtube.com/@fragmentosdesofia)
+- Comunidade no Reddit: [Fragmentos de Sofia](https://www.reddit.com/r/fragmentosdesofia/)
 
 
 ---
